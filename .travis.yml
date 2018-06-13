@@ -15,6 +15,7 @@ notifications:
 env:
   - ROS_DISTRO="kinetic"   ROS_REPOSITORY_PATH=http://packages.ros.org/ros/ubuntu
     PKGS_DOWNSTREAM=tensorflow_ros_test NOT_TEST_INSTALL=true
+    CATKIN_CONFIG='-FORCE_TF_PIP_SEARCH'
 install:
   - git clone https://github.com/ros-industrial/industrial_ci.git .industrial_ci
 script:
