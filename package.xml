@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package format="2">
   <name>tensorflow_ros</name>
-  <version>2.1.0</version>
-  <description>Catkin-friendly C++ bindings for the tensorflow package.</description>
+  <version>99.0.0</version>
+  <description>This package has moved to tensorflow_ros_cpp.</description>
 
   <maintainer email="martin.pecka@cvut.cz">Martin Pecka</maintainer>
 

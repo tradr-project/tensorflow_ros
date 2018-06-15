@@ -1,2 +1,0 @@
-- [Martin Pecka](https://github.com/peci1)
-- [Isaac I.Y. Saito](https://github.com/130s)
